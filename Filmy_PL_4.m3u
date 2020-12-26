@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/sami-swoi-1967.jpg", Sami swoi (1967)
+https://vodcdn2.internetowa.tv/storage-2/Sami-Swoi-1967-1080p-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/nie-ma-mocnych-pl-1974.jpg", Nie ma mocnych (1974)
+https://vodcdn2.internetowa.tv/oldmovies/98b4a631614edb3c1f04fcdab7cdb8055cb11fd3.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/kochaj-albo-rzuc-pl-1977.jpg", Kochaj albo rzuć (1977)
+https://vodcdn.internetowa.tv/oldmovies/9f4569b6ca3350007289cb7e1862e5ff1de2d2b3.mp4/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/diana-ostatnie-dni-ksiezniczki-diana-last-days-of-a-princess-lektor-2007.jpg", Diana Ostatnie Dni Księżniczki / Diana Last Days of a Princess (2007)
 https://vodcdn2.internetowa.tv/oldmovies/36a3ee922b505e6d24834a29946e85a939a939eb.mp4/index.m3u8
 

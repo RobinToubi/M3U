@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/pan-jangle-i-swiateczna-podroz-2020.jpg", Pan Jangle i świąteczna podróż (2020)
+https://vodcdn.internetowa.tv/storage-2/Jingle-Jangle-A-Christmas-Journey-Pan-Jangle-i-swiateczna-podroz-2020-DUB-PL.mp4/index.m3u8?md5=3GQDxVvB3val338BMmQMMA&expires=1610236172
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/wonder-woman-1984-2020.jpg", Wonder Woman 1984 (2020)
+https://vodcdn.internetowa.tv/storage-2/Wonder-Woman-1984-2020-Lektor-PL.mp4/index.m3u8?md5=2lfErcXaV2u3cHgfoIdA5A&expires=1610236174
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/w-kosmiczna-biel-2018.jpg", W kosmiczną biel (2018)
+https://vodcdn2.internetowa.tv/storage-2/Beyond-White-Space-W-kosmiczna-biel-2018-Lektor-PL.mp4/index.m3u8?md5=OQtdh_q5rouJqwoUudQQuw&expires=1610236176
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/hamilton-2020.jpg", Hamilton (2020)
+https://vodcdn2.internetowa.tv/storage-2/Hamilton-2020-PL-SUB.mp4/index.m3u8?md5=mg7Qsis_hf0TeD5hXZ1vKQ&expires=1610236177
+
 #EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/influencer-2020.jpg", Influencer
 https://vodcdn.internetowa.tv/storage-2/Spree-2020-PL-SUB-1080p.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/mystery-2012.jpg", Mystery

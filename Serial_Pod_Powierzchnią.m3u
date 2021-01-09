@@ -1,0 +1,30 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://vizjer.pl/public/static/poster/big/10-series.jpg", Season 1 Odcinek 1
+https://s42.aparat.cam/hls/aoqo347jqgr5fwfuh2mbo7a4lm675btba2yuooy3yn4mivgpggm3zgjo5veq/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://vizjer.pl/public/static/poster/big/10-series.jpg", Season 1 Odcinek 2
+https://s14.aparat.cam/hls/aoqoy5wwqgr5fwfuh2mbo2szd42fgrs5ysgy7fegy3hzh6wbnuzu3fzpsgrq/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://vizjer.pl/public/static/poster/big/10-series.jpg", Season 1 Odcinek 3
+https://s45.aparat.cam/hls/aoqoybowqgr5fwfuh2mbonq3imbamz7hv5lpxcnhhittzextphgz3pwptclq/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://vizjer.pl/public/static/poster/big/10-series.jpg", Season 1 Odcinek 4
+https://s46.aparat.cam/hls/aoqo34wwqgr5fwfuh2mbozy4jxfzlh4a27pjotwup4agprr6wvgvdqcnw5rq/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://vizjer.pl/public/static/poster/big/10-series.jpg", Season 1 Odcinek 5
+https://s30.aparat.cam/hls/aoqo32ouqgr5fwfuh2mbopcoc2uizgeuksyudugfe65r3nkamldb6asd465a/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://vizjer.pl/public/static/poster/big/10-series.jpg", Season 1 Odcinek 6
+https://s6.aparat.cam/hls/aoqozw7iqgr5fwfuh2mbo7sfinalqw3zfv5lmw3eohh7yduprsp4mhafwgea/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://vizjer.pl/public/static/poster/big/10-series.jpg", Season 1 Odcinek 7
+https://s27.aparat.cam/hls/aoqouz6vqgr5fwfuh2mbookel6av7yg4rmn5kmhaczrtvaled64pqyb6cxka/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://vizjer.pl/public/static/poster/big/10-series.jpg", Season 2 Odcinek 1
+https://s18.aparat.cam/hls/aoqo7skq6kr5fwfuhzkbon2jddneybyi7zkh7kbyhqjiyikagkaeknbrykpa/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://vizjer.pl/public/static/poster/big/10-series.jpg", Season 2 Odcinek 2
+https://s3.aparat.cam/hls/aoqo2p2q6kr5fwfuhzkbo5sujsohku5w5w65akoz5qnaqte4shvimedlasra/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://vizjer.pl/public/static/poster/big/10-series.jpg", Season 2 Odcinek 3
+https://s26.aparat.cam/hls/aoqo7rkq6kr5fwfuhzkbo2khdtfcy4rsyyj7exlmlrh6asifmlgcuvp3ygdq/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://vizjer.pl/public/static/poster/big/10-series.jpg", Season 2 Odcinek 4
+https://s29.aparat.cam/hls/aoqoz72q6kr5fwfuhzkbopivjrgamzklsr4yjg5smhhyz5yfhncpbrnbujtq/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://vizjer.pl/public/static/poster/big/10-series.jpg", Season 2 Odcinek 5
+https://s7.aparat.cam/hls/aoqo3rsq6kr5fwfuhzkbooc4lc5ufeklbvdkmyfoaj3ulqukh7s3kp3gyofa/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://vizjer.pl/public/static/poster/big/10-series.jpg", Season 2 Odcinek 6
+https://s29.aparat.cam/hls/aoqovukq6kr5fwfuhzkbon26i7iiqgujmvizbob6qkchikax6czg3szalwza/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://vizjer.pl/public/static/poster/big/10-series.jpg", Season 2 Odcinek 7
+https://s44.aparat.cam/hls/aoqo3xcq6kr5fwfuhzkbo7s2jryaqji45ccqtg37ejdfopxliifpxhp6agiq/index-v1-a1.m3u8

@@ -1,10 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://fwcdn.pl/fpo/88/26/848826/7928883.3.jpg", Pętla (2020)
+https://hhostss.com/stream/v2/YToxOntzOjQ6ImZyZWUiO2k6MDt9/0/NS05MTIyMA/master.m3u8
 #EXTINF:-1 tvg-logo="https://fwcdn.pl/fpo/75/24/847524/7932617.3.jpg", Banksterzy (2020)
 https://hhostss.com/stream/v2/YToxOntzOjQ6ImZyZWUiO2k6MDt9/0/OS0xNDg5Njg/master.m3u8
 #EXTINF:-1 tvg-logo="https://fwcdn.pl/fpo/43/42/844342/7930471.3.jpg", 25 lat niewinności. Sprawa Tomka Komendy (2020)
 https://hhostss.com/stream/v2/YToxOntzOjQ6ImZyZWUiO2k6MDt9/0/MTAtMTQ5MDUw/master.m3u8
-#EXTINF:-1, Pętla
+#EXTINF:-1, tvg-logo="https://fwcdn.pl/fpo/88/26/848826/7928883.3.jpg", Pętla (2020)
 https://hhostss.com/stream/v1/playlist/YToxOntzOjQ6ImZyZWUiO2k6MDt9/0/play/11a12ffca3c322f09536297351d78f94/index-f1-v1-a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://fwcdn.pl/fpo/31/72/833172/7894169.3.jpg", Polityka (2019)

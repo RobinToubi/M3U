@@ -1,16 +1,55 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://ia802907.us.archive.org/26/items/icon_20200314/icon.png", Powered by The Samsung Freak 
 
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/najdluzsza-noc-2019.jpg", Najdłuższa noc (2019)
+https://vodcdn2.internetowa.tv/storage-2/The-Longest-Night-2019-Lektor-PL-1080p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/powrot-do-przyszlosci-1985.jpg", Powrót do przyszłości (1985)
+https://vodcdn2.internetowa.tv/storage-2/Powrot-Do-Przyszlosci-Back-To-The-Future-1985-1080p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/czlowiek-mafii-2015.jpg", Człowiek mafii (2015)
+https://vodcdn2.internetowa.tv/storage-2/Heist-2015-Lektor-PL-720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/ana-2020.jpg", Ana (2020)
+https://vodcdn2.internetowa.tv/storage-2/Ana-2020-Lektor-PL-1080p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/shindisi-2019.jpg", Shindisi (2019)
+https://vodcdn.internetowa.tv/storage-2/Shindisi-2019-Lektor-PL-1080p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/hellraiser-v-wrota-piekiel-2000.jpg", Hellraiser V: Wrota piekieł (2000)
+https://vodcdn.internetowa.tv/storage-2/Hellraiser-Wrota-Piekiel-Hellraiser-Inferno-2000-1080P-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/na-linii-2015.jpg", Na linii (2015)
+https://vodcdn2.internetowa.tv/storage-2/Operator-2015-Lektor-PL-720p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/vanguard-2020.jpg", Vanguard (2020)
+https://vodcdn2.internetowa.tv/storage-2/VANGUARD-2020-PL-SUB.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/the-vigil-2020.jpg", The Vigil (2020)
+https://vodcdn.internetowa.tv/storage-2/The-Vigil-2020-PL-SUB-1080p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/krudowie-2-nowa-era-2020.jpg", Krudowie 2: Nowa era (2020) 
+https://vodcdn.internetowa.tv/storage-2/The-Croods-A-New-Age-2020-Lektor-PL-1080p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/crack-kokaina-korupcja-i-konspiracja-2021.jpg", Crack: Kokaina, korupcja i konspiracja (2021)
+https://vodcdn.internetowa.tv/storage-2/Crack-Cocaine-Corruption-and-Conspiracy-2021-1080p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/lepsze-dni-2019.jpg", Lepsze dni (2019)
+https://vodcdn.internetowa.tv/storage-2/Batter-Days-2019-Lektor-PL-1080p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/przykladny-obywatel-2019.jpg", Przykładny obywatel (2019)
+https://vodcdn.internetowa.tv/storage-2/Cold-Pursuit-Przykladny-Obywatel-2019-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/dzikie-stworzenia-2018.jpg", Dzikie stworzenia (2018)
+https://vodcdn2.internetowa.tv/storage-2/savage-720p-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/tremors-shrieker-island-2020.jpg", Tremors: Shrieker Island (2020)
+https://vodcdn2.internetowa.tv/storage-2/Tremors-7-2020-1080p-PL-SUB.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/glowica-2018.jpg", Głowica (2018)
+https://vodcdn2.internetowa.tv/storage-2/Cutterhead-2018-Lektor-PL-1080p.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/wstrzasy-zimny-dzien-w-piekle-2018.jpg", Wstrząsy: Zimny dzień w piekle (2018)
+https://vodcdn2.internetowa.tv/storage-2/Tremors-6-2018-PL-SUB.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/ostatni-smok-zemsta-2020.jpg", Ostatni smok: Zemsta (2020)
+https://vodcdn.internetowa.tv/storage-2/Ostatni-smok-Zemsta-2020-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/uczciwy-zlodziej-2020.jpg", Uczciwy złodziej (2020)
+https://vodcdn2.internetowa.tv/storage-2/Honest-Thief-Uczciwy-zlodziej-2020-Lektor-PL.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/wonder-woman-1984-2020.jpg", Wonder Woman 1984 (2020)
+https://vodcdn.internetowa.tv/storage-2/Wonder-Woman-1984-2020-Lektor-PL.mp4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/pan-jangle-i-swiateczna-podroz-2020.jpg", Pan Jangle i świąteczna podróż (2020)
-https://vodcdn.internetowa.tv/storage-2/Jingle-Jangle-A-Christmas-Journey-Pan-Jangle-i-swiateczna-podroz-2020-DUB-PL.mp4/index.m3u8?md5=3GQDxVvB3val338BMmQMMA&expires=1610236172
+https://vodcdn.internetowa.tv/storage-2/Jingle-Jangle-A-Christmas-Journey-Pan-Jangle-i-swiateczna-podroz-2020-DUB-PL.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/wonder-woman-1984-2020.jpg", Wonder Woman 1984 (2020)
-https://vodcdn.internetowa.tv/storage-2/Wonder-Woman-1984-2020-Lektor-PL.mp4/index.m3u8?md5=2lfErcXaV2u3cHgfoIdA5A&expires=1610236174
+https://vodcdn.internetowa.tv/storage-2/Wonder-Woman-1984-2020-Lektor-PL.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/w-kosmiczna-biel-2018.jpg", W kosmiczną biel (2018)
-https://vodcdn2.internetowa.tv/storage-2/Beyond-White-Space-W-kosmiczna-biel-2018-Lektor-PL.mp4/index.m3u8?md5=OQtdh_q5rouJqwoUudQQuw&expires=1610236176
+https://vodcdn2.internetowa.tv/storage-2/Beyond-White-Space-W-kosmiczna-biel-2018-Lektor-PL.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/hamilton-2020.jpg", Hamilton (2020)
-https://vodcdn2.internetowa.tv/storage-2/Hamilton-2020-PL-SUB.mp4/index.m3u8?md5=mg7Qsis_hf0TeD5hXZ1vKQ&expires=1610236177
-
+https://vodcdn2.internetowa.tv/storage-2/Hamilton-2020-PL-SUB.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/influencer-2020.jpg", Influencer
 https://vodcdn.internetowa.tv/storage-2/Spree-2020-PL-SUB-1080p.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://hejo.tv/uploads/poster/mystery-2012.jpg", Mystery
